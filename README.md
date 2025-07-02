@@ -48,7 +48,7 @@ This MCP server provides the following tools:
 
 ```bash
 # Clone the repository
- git clone <this-repo-url>
+ git clone https://github.com/mazedur1056/github-mcp-server.git
  cd github-mcp-server
 
 # Install dependencies
